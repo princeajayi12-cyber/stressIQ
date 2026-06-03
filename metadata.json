@@ -1,0 +1,6 @@
+{
+  "name": "Stress Assessment",
+  "description": "A refined stress and well-being assessment and analytics tool to calculate weighted stress scores across lifestyle, academic, cognitive, and physical dimensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
